@@ -11,6 +11,7 @@ Welcome to my **C# Coding Tasks** repository! This repo contains small yet essen
 4️⃣ [🛁 Tile Calculator](#-tile-calculator)
 5️⃣ [🏦 Bank Deposit Interest](#-bank-deposit-interest)
 6️⃣ [📖 Book Reading Time](#-book-reading-time)
+7️⃣ [🖊️ School Supplies Cost](#-school-supplies-cost)
 
 ---
 
@@ -125,5 +126,24 @@ Console.WriteLine(hoursToRead);
 
 ---
 
-🔔 **More tasks are coming soon!** Stay tuned for updates. 🎉
+## 7️⃣ 🖊️ School Supplies Cost
+**Task:** Calculate the total cost of school supplies after discount.
+```csharp
+// Read input values
+int numberOfPackagesOfPens = int.Parse(Console.ReadLine());
+int numberOfPackagesOfMarkers = int.Parse(Console.ReadLine());
+int litersOfBoardCleaner = int.Parse(Console.ReadLine());
+int discount = int.Parse(Console.ReadLine());
 
+double priceOfPackageOfPens = 5.80;
+double priceOfPackageOfMarkers = 7.20;
+double priceOfLiterOfBoardCleaner = 1.20;
+
+double totalCost = numberOfPackagesOfPens * priceOfPackageOfPens + numberOfPackagesOfMarkers * priceOfPackageOfMarkers + litersOfBoardCleaner * priceOfLiterOfBoardCleaner;
+double discountedTotalCost = totalCost - totalCost * discount / 100;
+
+// Print the final discounted total cost
+Console.WriteLine($"{discountedTotalCost:F3}");
+```
+
+---
