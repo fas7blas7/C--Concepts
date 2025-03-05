@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\5-DepositCalculator\bin\Debug\net8.0\5-DepositCalculator.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\5-DepositCalculator\bin\Debug\net8.0\5-DepositCalculator.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\5-DepositCalculator\bin\Debug\net8.0\5-DepositCalculator.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\5-DepositCalculator\bin\Debug\net8.0\5-DepositCalculator.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\5-DepositCalculator\bin\Debug\net8.0\5-DepositCalculator.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\5-DepositCalculator\obj\Debug\net8.0\5-DepositCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\5-DepositCalculator\obj\Debug\net8.0\5-DepositCalculator.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\5-DepositCalculator\obj\Debug\net8.0\5-DepositCalculator.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\5-DepositCalculator\obj\Debug\net8.0\5-DepositCalculator.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\5-DepositCalculator\obj\Debug\net8.0\5-DepositCalculator.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\5-DepositCalculator\obj\Debug\net8.0\refint\5-DepositCalculator.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\5-DepositCalculator\obj\Debug\net8.0\5-DepositCalculator.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\5-DepositCalculator\obj\Debug\net8.0\5-DepositCalculator.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\5-DepositCalculator\obj\Debug\net8.0\ref\5-DepositCalculator.dll
