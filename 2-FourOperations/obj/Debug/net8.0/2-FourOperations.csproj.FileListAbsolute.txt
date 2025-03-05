@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\2-FourOperations\bin\Debug\net8.0\2-FourOperations.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\2-FourOperations\bin\Debug\net8.0\2-FourOperations.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\2-FourOperations\bin\Debug\net8.0\2-FourOperations.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\2-FourOperations\bin\Debug\net8.0\2-FourOperations.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\2-FourOperations\bin\Debug\net8.0\2-FourOperations.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\2-FourOperations\obj\Debug\net8.0\2-FourOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\2-FourOperations\obj\Debug\net8.0\2-FourOperations.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\2-FourOperations\obj\Debug\net8.0\2-FourOperations.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\2-FourOperations\obj\Debug\net8.0\2-FourOperations.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\2-FourOperations\obj\Debug\net8.0\2-FourOperations.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\2-FourOperations\obj\Debug\net8.0\refint\2-FourOperations.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\2-FourOperations\obj\Debug\net8.0\2-FourOperations.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\2-FourOperations\obj\Debug\net8.0\2-FourOperations.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\2-FourOperations\obj\Debug\net8.0\ref\2-FourOperations.dll
