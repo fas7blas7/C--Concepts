@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\3-Market\bin\Debug\net8.0\3-Market.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\3-Market\bin\Debug\net8.0\3-Market.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\3-Market\bin\Debug\net8.0\3-Market.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\3-Market\bin\Debug\net8.0\3-Market.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\3-Market\bin\Debug\net8.0\3-Market.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\3-Market\obj\Debug\net8.0\3-Market.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\3-Market\obj\Debug\net8.0\3-Market.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\3-Market\obj\Debug\net8.0\3-Market.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\3-Market\obj\Debug\net8.0\3-Market.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\3-Market\obj\Debug\net8.0\3-Market.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\3-Market\obj\Debug\net8.0\refint\3-Market.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\3-Market\obj\Debug\net8.0\3-Market.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\3-Market\obj\Debug\net8.0\3-Market.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\3-Market\obj\Debug\net8.0\ref\3-Market.dll
