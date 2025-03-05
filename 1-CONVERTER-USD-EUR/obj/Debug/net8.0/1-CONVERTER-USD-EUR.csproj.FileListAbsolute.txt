@@ -1,0 +1,14 @@
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\1-CONVERTER-USD-EUR\bin\Debug\net8.0\1-CONVERTER-USD-EUR.exe
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\1-CONVERTER-USD-EUR\bin\Debug\net8.0\1-CONVERTER-USD-EUR.deps.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\1-CONVERTER-USD-EUR\bin\Debug\net8.0\1-CONVERTER-USD-EUR.runtimeconfig.json
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\1-CONVERTER-USD-EUR\bin\Debug\net8.0\1-CONVERTER-USD-EUR.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\1-CONVERTER-USD-EUR\bin\Debug\net8.0\1-CONVERTER-USD-EUR.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\1-CONVERTER-USD-EUR\obj\Debug\net8.0\1-CONVERTER-USD-EUR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\1-CONVERTER-USD-EUR\obj\Debug\net8.0\1-CONVERTER-USD-EUR.AssemblyInfoInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\1-CONVERTER-USD-EUR\obj\Debug\net8.0\1-CONVERTER-USD-EUR.AssemblyInfo.cs
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\1-CONVERTER-USD-EUR\obj\Debug\net8.0\1-CONVERTER-USD-EUR.csproj.CoreCompileInputs.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\1-CONVERTER-USD-EUR\obj\Debug\net8.0\1-CONVERTER-USD-EUR.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\1-CONVERTER-USD-EUR\obj\Debug\net8.0\refint\1-CONVERTER-USD-EUR.dll
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\1-CONVERTER-USD-EUR\obj\Debug\net8.0\1-CONVERTER-USD-EUR.pdb
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\1-CONVERTER-USD-EUR\obj\Debug\net8.0\1-CONVERTER-USD-EUR.genruntimeconfig.cache
+C:\Users\skyli\Desktop\Programming Fundamentals and Unit Testing - January 2025\4-KEY-CONCEPTS\1-CONVERTER-USD-EUR\obj\Debug\net8.0\ref\1-CONVERTER-USD-EUR.dll
