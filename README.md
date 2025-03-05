@@ -8,6 +8,9 @@ Welcome to my **C# Coding Tasks** repository! This repo contains small yet essen
 1️⃣ [💲 Currency Converter](#-currency-converter)
 2️⃣ [🧮 Basic Math Operations](#-basic-math-operations)
 3️⃣ [🥦 Grocery Cost Calculator](#-grocery-cost-calculator)
+4️⃣ [🛁 Tile Calculator](#-tile-calculator)
+5️⃣ [🏦 Bank Deposit Interest](#-bank-deposit-interest)
+6️⃣ [📖 Book Reading Time](#-book-reading-time)
 
 ---
 
@@ -64,6 +67,60 @@ double totalCost = potatoCost + cucumberCost;
 
 // Print the total cost
 Console.WriteLine($"{totalCost:f2}");
+```
+
+---
+
+## 4️⃣ 🛁 Tile Calculator
+**Task:** Calculate how many tiles are needed for a bathroom.
+```csharp
+// Read bathroom and tile dimensions
+double width = double.Parse(Console.ReadLine());
+double height = double.Parse(Console.ReadLine());
+double tileWidth = double.Parse(Console.ReadLine());
+double tileHeigth = double.Parse(Console.ReadLine());
+
+double bathroomArea = width * height;
+double bathroomAreaTotalSurplus = bathroomArea * 1.1;
+double tileArea = tileWidth * tileHeigth;
+double tilesNeeded = bathroomAreaTotalSurplus / tileArea;
+
+// Print rounded tiles needed
+Console.WriteLine(Math.Round(tilesNeeded));
+```
+
+---
+
+## 5️⃣ 🏦 Bank Deposit Interest
+**Task:** Calculate the final deposit amount after interest.
+```csharp
+// Read deposit details
+double deposit = double.Parse(Console.ReadLine());
+int monthsTerm = int.Parse(Console.ReadLine());
+double interestRate = double.Parse(Console.ReadLine());
+
+double interestRateConverted = interestRate * 0.01;
+double interest = deposit + monthsTerm * (deposit * interestRateConverted) / 12;
+
+// Print the final amount
+Console.WriteLine($"{interest:f2}");
+```
+
+---
+
+## 6️⃣ 📖 Book Reading Time
+**Task:** Calculate the required reading hours per day.
+```csharp
+// Read book details
+int pages = int.Parse(Console.ReadLine());
+int pagesPerHour = int.Parse(Console.ReadLine());
+int days = int.Parse(Console.ReadLine());
+
+int hoursPerDay = pages / pagesPerHour;
+int hoursToRead = hoursPerDay / days;
+
+// Print hours per day needed
+Console.WriteLine(hoursToRead);
 ```
 
 ---
